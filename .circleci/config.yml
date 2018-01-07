@@ -7,6 +7,8 @@ jobs:
     environment:
       TEST_RESULTS: /tmp/test-results
 
+    working_directory: /go/src/github.com/jakub.igla/props
+
     steps:
       - checkout
 

@@ -4,7 +4,7 @@
 
 ## Description
 
-## Usage
+Project Operations tool. It simplifies orchestration of your micro services for your development environment. 
 
 ## Install
 
@@ -16,7 +16,7 @@ $ go get -d github.com/jakub.igla/props
 
 ## Contribution
 
-1. Fork ([https://github.com/Jakub Igla/props/fork](https://github.com/jakub.igla/props/fork))
+1. Fork ([https://github.com/jakub.igla/props/fork](https://github.com/jakub.igla/props/fork))
 1. Create a feature branch
 1. Commit your changes
 1. Rebase your local changes against the master branch
