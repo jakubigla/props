@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/mitchellh/cli"
-	"github.com/jakub.igla/props/command"
+	"github.com/jakubigla/props/command"
 )
 
 func Commands(meta *command.Meta) map[string]cli.CommandFactory {

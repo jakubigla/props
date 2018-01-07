@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/mitchellh/cli"
-	"github.com/Jakub Igla/props/command"
+	"github.com/jakubigla/props/command"
 )
 
 func Run(args []string) int {
