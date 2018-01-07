@@ -1,6 +1,6 @@
 # props
-
-
+[![CircleCI](https://circleci.com/gh/jakubigla/props/tree/master.svg?style=svg)](https://circleci.com/gh/jakubigla/props/tree/master)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jakubigla/props/master/LICENSE)
 
 ## Description
 
