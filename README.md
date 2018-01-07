@@ -1,10 +1,10 @@
-# props
-[![CircleCI](https://circleci.com/gh/jakubigla/props/tree/master.svg?style=svg)](https://circleci.com/gh/jakubigla/props/tree/master)
+# Props - Project Operations Tool
+[![CircleCI Build Status](https://circleci.com/gh/jakubigla/props.svg?style=shield)](https://circleci.com/gh/jakubigla/props/tree/master)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jakubigla/props/master/LICENSE)
 
 ## Description
 
-Project Operations tool. It simplifies orchestration of your micro services for your development environment. 
+Simplifies orchestration of your micro services for your development environment. 
 
 ## Install
 
